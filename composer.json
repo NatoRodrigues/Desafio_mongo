@@ -1,0 +1,17 @@
+{
+    "name": "renat/desafio_mongo",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NatoRodrigues",
+            "email": "renwise2.0@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^2.0.0"
+    }
+}
